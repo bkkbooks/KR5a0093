@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5a0093/krp/v1/juan/0
+seq: 0
+front:
+  text: 元始無量度人上品妙經注解往四
+  hash: sha256:9fc223d9599686bec0927fb8620fa7b4c2443f5ca13aad5709ec18cbfd93e983
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5a0093_HFL_000-001a, image: hfl/0046/0046-090.png}
+body:
+  text: 進經表小兆臣薛季昭誠惶誠恐稽首頓首再拜上言臣聞黍珠造化因元始以泄玄靈寶本章賴道君而演化天不愛道世得見經誠為混沌赤文名曰上品妙首元綱流演則三十二帝神文營衛則二十四人上消天災下禳毒害故輕泄漏慢者身經地獄而供養尊禮者位登仙公然世人誦詠雖多於經旨通明者少先賢非無箋注多入幽玄末學未易通融益滋疑惑心如昧昧音謾琅琅臣季昭等是凡夫好參玄竅師傳心印帥顯雷壇愧無寸功可消三惡助六經之句解參諸老之玄談集成一家廣開衆目不敢施於上道祇接引於下根隨字發明逐章剖析但欲焕聖言於日月焉能免罪咎於丘山祈帝之恩恕臣之僣臣誠惶誠恐稽首頓首再拜恭惟無上大羅三境金闕玉皇上帝玉陛下開明三景化生諸天玄座說經同時稱善生死受賴為福難勝玄奧可詳度人無量伏望憫臣未消穢氣念臣好學至經通玄究微粗悉其章焚香誦經願成此志仰蒙帝祐獲就良因了積年未了之心開夙世罔開之眼利施六天之下是男是女咸得長生庶幾一日之間無智無愚皆可入道彼此俱無妄想祖宗但願升遷仍請護持相傳久遠昔諸天記人功過毫分無失今一國傾心歸仰喜慶難言臣下情無任瞻天望聖昧死俯伏謝罪祈恩之至謹言大德七年甲辰上元日小兆臣薛季昭上表
+  hash: sha256:5e96965e114ded18af595e5d97ecd0a304c0035368b468115b270aa29f24e7c8
+metadata:
+  title: 元始無量度人上品妙經註解
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-28 23:36:48.315367'
+  source:
+    repository: kanripo
+    path: KR5a0093/KR5a0093_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:1d848be9e5e82943fee0418f2aef89a4649e9f0b3e378f4d12746d38af8568fa
